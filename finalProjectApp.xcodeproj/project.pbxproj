@@ -11,6 +11,7 @@
 		370879CA2A61959900BC66A0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 370879C92A61959900BC66A0 /* ContentView.swift */; };
 		370879CC2A61959A00BC66A0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 370879CB2A61959A00BC66A0 /* Assets.xcassets */; };
 		370879CF2A61959A00BC66A0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 370879CE2A61959A00BC66A0 /* Preview Assets.xcassets */; };
+		BD1E71B22A659BC4002B200F /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD1E71B12A659BC4002B200F /* SecondView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		370879C92A61959900BC66A0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		370879CB2A61959A00BC66A0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		370879CE2A61959A00BC66A0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		BD1E71B12A659BC4002B200F /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				370879C72A61959900BC66A0 /* finalProjectAppApp.swift */,
 				370879C92A61959900BC66A0 /* ContentView.swift */,
+				BD1E71B12A659BC4002B200F /* SecondView.swift */,
 				370879CB2A61959A00BC66A0 /* Assets.xcassets */,
 				370879CD2A61959A00BC66A0 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BD1E71B22A659BC4002B200F /* SecondView.swift in Sources */,
 				370879CA2A61959900BC66A0 /* ContentView.swift in Sources */,
 				370879C82A61959900BC66A0 /* finalProjectAppApp.swift in Sources */,
 			);
